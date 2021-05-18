@@ -4,4 +4,4 @@ This is a sample of the repository for my team's NYU Big Data Project. In the pr
 
 I did not include any of the data used in this repository. The majority came from HDFS, housed on NYU's High Performance Computing Cluster. Initially it came from the Million Songs Dataset http://millionsongdataset.com/
 
-The final PDF is shared here: put link when ready
+The final PDF is shared here: https://github.com/jack-epstein/nyucds_1004_finalproject/blob/main/Collaborative_Filtering_Final_Project.pdf
