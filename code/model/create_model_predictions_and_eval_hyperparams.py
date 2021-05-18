@@ -14,9 +14,6 @@ from pyspark.mllib.evaluation import RankingMetrics
 from pyspark.ml.recommendation import ALS
 import time
 
-#DELETE THESE: WHAT ELSE NEEDS TO HAPPEN
-    # UPDATE THE STRATEGIC DOWNSAMPLING TO MAKE NEW PARQUET FILES (NO CHANGES NEEDED HERE)
-    # CHECK OUT SARAS VALIDATION SORTING TO CHANGE WHICH FILE I CAN READ IN HERE. THEN UPDATE VAL AGG STEPS
 
 def main(spark, file_path_in_train, file_path_in_val, max_iter):
     '''Main routine for Lab Solutions
