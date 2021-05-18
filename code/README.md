@@ -8,3 +8,6 @@ Any scripts that fit some sort of learned model. Both for ALS problem and cold s
 
 #### Eval
 Scripts for final evaluation on recommendations. Some scripts in the model directory do both modeling and scoring
+
+#### Working Files
+Scripts including attempts that did not work for our final model
